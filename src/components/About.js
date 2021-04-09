@@ -9,36 +9,24 @@ const About = () => {
           <div className="mr-1">
             <h4 className="font-bold">Jezus Chrystus</h4>
             <p className="text-black text-opacity-50 text-sm">
-              Lorem, ipsum dolor.
+              moim Zbawicielem.
             </p>
           </div>
           <img src={profile} alt="..." className="w-10 md:h-10 rounded-full" />
         </div>
         <div>
           <q className="text-4xl text-center block mt-5 md:mt-0">
-            Whatever a man can imagine, he can invent.
+            Odkupiłeś nas, Panie, Krwią swoją.
           </q>
         </div>
-        <div className="grid grid-cols-1 gap-5 mt-5 text-center md:text-left md:mt-0">
+        <div className="grid grid-cols-1 gap-5 mt-5 md:text-left md:mt-0">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
-            sunt odio, pariatur rem provident placeat voluptas fugit
-            exercitationem aliquid sint asperiores eum eveniet id minima!
-            Impedit ut tenetur excepturi asperiores laboriosam. Perferendis
-            rerum minima autem rem quae quaerat labore, quis incidunt
-            voluptatem, maiores cum nobis asperiores nulla expedita, delectus
-            quidem?
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi iusto
-            quasi explicabo laboriosam laudantium fuga ducimus, esse sit
-            similique rem?
-          </p>
-          <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magni,
-            tempore consequuntur cupiditate, amet commodi modi beatae quaerat
-            consequatur rem nemo tempora reiciendis odit possimus voluptatem
-            nobis? Possimus magnam rerum amet.
+            Wszechmogący, wieczny Boże, Ty Jednorodzonego Syna swego ustanowiłeś
+            Odkupicielem świata i&nbsp;Krwią Jego dałeś się przebłagać, † daj
+            nam, prosimy, godnie czcić zapłatę naszego zbawienia i&nbsp;dzięki
+            niej doznawać obrony od zła doczesnego na&nbsp;ziemi, * abyśmy
+            wiekuistym szczęściem radowali się w&nbsp;niebie.
+            <p>Przez Chrystusa, Pana naszego. Amen.</p>
           </p>
         </div>
       </section>

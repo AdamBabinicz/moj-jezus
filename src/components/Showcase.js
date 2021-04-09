@@ -1,7 +1,7 @@
 import React from "react";
 import ReactTypingEffect from "react-typing-effect";
 import profile from "../assets/2.svg";
-import showcaseImage from "../assets/11.jpg";
+import showcaseImage from "../assets/1.jpg";
 
 const Showcase = () => {
   return (
@@ -10,18 +10,18 @@ const Showcase = () => {
         id="home"
         className="pb-20 lg:flex lg:max-w-7xl lg:mx-auto lg:py-32"
       >
-        <div className="flex items-center justify-center py-10 lg:items-start lg:justify-start">
+        <div className="flex items-center justify-center py-10  lg:items-start lg:justify-start">
           <div className="mr-1">
             <h4 className="font-bold">Jezus Chrystus</h4>
             <p className="text-black text-opacity-50 text-sm">
-              Droga, Prawda i Życie.
+              Drogą, Prawdą i Życiem.
             </p>
           </div>
           <img src={profile} alt="..." className="w-10 rounded-full" />
         </div>
 
         <div className="px-5 text-center lg:w-2/3 lg:mx-auto">
-          <h1 className="text-4xl text-black text-opacity-25 mb-2 lg:text-6xl lg:text-left">
+          <h1 className="text-4xl text-black text-opacity-25 mb-2 lg:text-5xl lg:text-left">
             Dla Jego bolesnej męki, <br />
             <ReactTypingEffect
               text={["miej miłosierdzie dla nas i całego świata.", "", ""]}

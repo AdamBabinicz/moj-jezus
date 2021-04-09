@@ -24,3 +24,9 @@ h6 {
 q {
   font-family: "Parisienne", cursive;
 }
+a {
+  transition: all 0.5s;
+}
+a:hover {
+  opacity: 0.5;
+}
