@@ -18,7 +18,7 @@ const Articles = () => {
           return (
             <article
               key={id}
-              className="flex items-center justify-between bg-black bg-opacity-10 rounded-lg"
+              className="flex items-center justify-between bg-black bg-opacity-10 rounded-lg sm:m-4"
             >
               <img
                 src={image}
