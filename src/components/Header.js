@@ -7,7 +7,7 @@ const Header = () => {
     <>
       <header className="fixed w-full flex items-center justify-between px-5 py-3 lg:justify-around bg-gradient-to-b from-black to-transparent z-50">
         <div className="logo">
-          <h2 className="text-2xl lg:text-4xl text-white">Mój Jezus</h2>
+          <h1 className="text-2xl lg:text-4xl text-white">Mój Jezus</h1>
         </div>
         <nav>
           <ul className="flex items-center">
