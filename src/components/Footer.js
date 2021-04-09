@@ -36,6 +36,13 @@ const Footer = () => {
             >
               <GrYoutube />
             </Link>
+            <Link
+              to="//www.youtube.com/watch?v=k1REkbHNyOk"
+              target="_blank"
+              className="mx-2 text-2xl"
+            >
+              <GrYoutube />
+            </Link>
           </ul>
         </div>
       </footer>
