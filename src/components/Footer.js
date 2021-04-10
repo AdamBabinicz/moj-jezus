@@ -8,7 +8,7 @@ const Footer = () => {
     <>
       <footer className="px-5 py-20 lg:max-w-7xl lg:mx-auto">
         <div className="mb-10 md:flex md:items-center md:justify-center">
-          <h2 className="text-4xl mb-2">JHS</h2>
+          <h2 className="text-4xl mb-2">Jezus</h2>
           <p className="ml-2">zmartwychwstał!</p>
         </div>
         <img src={JHS} alt="..." className="pb-4" />

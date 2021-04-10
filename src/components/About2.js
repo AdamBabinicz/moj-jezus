@@ -21,16 +21,21 @@ const About2 = () => {
             moich świętych Patronów, całego Dworu Niebieskiego poświęcam się
             o&nbsp;Najukochańszy Jezu z&nbsp;całą szczerością serca, jak
             najdobrowolniej, Twojej Najdroższej Krwi, przez którą cały świat
-            odkupiłeś od grzechu, śmierci i&nbsp;piekła. Ja ....... przyrzekam
-            Ci, licząc na pomoc Twojej łaski, z&nbsp;całych mych sił
-            i&nbsp;według mych możliwości, budzić i&nbsp;rozszerzać nabożeństwo
-            do&nbsp;Twojej Najświętszej Krwi, ceny naszego Odkupienia tak, aby
-            Twa Krew, tak bardzo godna adoracji od wszystkich była uczczona
-            i&nbsp;uwielbioną. W ten sposób chcę moją niewierność przeciw Twojej
-            Najdroższej Krwi i&nbsp;Miłości wynagrodzić i&nbsp;Tobie
-            zadośćuczynić za&nbsp;tak liczne profanacje i&nbsp;znieważenia,
-            które ludzie Twojej Najdroższej Cenie naszego zbawienia zadają. O!
-            Gdyby można było moje własne grzechy, moją oziębłość
+            odkupiłeś od grzechu, śmierci i&nbsp;piekła.
+          </p>
+          <p>
+            Ja ....... przyrzekam Ci, licząc na pomoc Twojej łaski,
+            z&nbsp;całych mych sił i&nbsp;według mych możliwości, budzić
+            i&nbsp;rozszerzać nabożeństwo do&nbsp;Twojej Najświętszej Krwi, ceny
+            naszego Odkupienia tak, aby Twa Krew, tak bardzo godna adoracji od
+            wszystkich była uczczona i&nbsp;uwielbioną. W ten sposób chcę moją
+            niewierność przeciw Twojej Najdroższej Krwi i&nbsp;Miłości
+            wynagrodzić i&nbsp;Tobie zadośćuczynić za&nbsp;tak liczne profanacje
+            i&nbsp;znieważenia, które ludzie Twojej Najdroższej Cenie naszego
+            zbawienia zadają.
+          </p>
+          <p>
+            O! Gdyby można było moje własne grzechy, moją oziębłość
             i&nbsp;wszystkie zniewagi, którymi Ciebie o&nbsp;Najdroższa Krwi
             kiedykolwiek znieważyłem, unicestwić! Patrz o&nbsp;najukochańszy
             Jezu, oto ofiaruję Ci też miłość, cześć i&nbsp;uwielbienie, które
