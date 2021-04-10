@@ -13,7 +13,7 @@ const Header = () => {
           <ul className="flex items-center">
             <li className="mx-2 lg:mx-5">
               <a href="#home" className="lg:text-xl text-white">
-                Start
+                התחלה
               </a>
             </li>
             <li>
