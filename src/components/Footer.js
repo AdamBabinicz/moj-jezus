@@ -16,7 +16,7 @@ const Footer = () => {
           <p>2021 - {new Date().getFullYear()}.</p>
           <ul className="flex mb-2">
             <Link
-              to="//www.youtube.com/watch?v=0FCHrueoHQM"
+              to="//www.youtube.com/watch?v=42zfgE9Fybc"
               target="_blank"
               className="mx-2 text-2xl"
             >
